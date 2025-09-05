@@ -34,8 +34,7 @@ Problem
 Most Web3 projects focus heavily on technical complexity, leaving casual users behind. There is a lack of fun, instantly accessible apps that show the lighter side of decentralized ecosystems.
 
 Solution
-
-Soundness Puzzle demonstrates how simple, frontend-only games can thrive on the Soundness Layer. It emphasizes design, creativity, and instant accessibility while serving as an example of how the platform can also host lightweight, fun-first vApps.
+PuzzlePlay demonstrates how simple, frontend-only games can thrive on the Soundness Layer. It emphasizes design, creativity, and instant accessibility while serving as an example of how the platform can also host lightweight, fun-first vApps.
 
 Technical Architecture
 
