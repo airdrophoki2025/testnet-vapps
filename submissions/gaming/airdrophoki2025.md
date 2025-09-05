@@ -1,4 +1,4 @@
-vApp Submission: Soundness Puzzle
+vApp Submission: PuzzlePlay
 
 ## Verification
 ```yaml
@@ -7,103 +7,101 @@ discord_id: "1325486316032360478"
 timestamp: "2025-09-03"
 Developer
 
-Name: Murphy
+Developer
+
+Name: airdrophoki2025
 
 GitHub: @airdrophoki2025
 
 Discord: airdrophoki2025
 
-Experience: Beginner developer who enjoys experimenting with web games and frontend design. Curious about how simple browser projects can grow into something fun and creative.
+Experience: Beginner developer passionate about experimenting with browser games and frontend design. Exploring how simple projects can grow into creative, fun experiences within the Soundness ecosystem.
 
-Project
-Name & Category
+Project Title & Category
 
 Project: Soundness Puzzle
 
-Category: gaming
+Category: Gaming
 
-Description
+Summary
 
-Soundness Puzzle is a small browser game where players drag and drop tiles to complete an image.
-It’s built with plain HTML, CSS, and JavaScript, and can run instantly in any browser — no installs, no wallets, no accounts.
+PuzzlePlay is a lightweight browser game where players drag and drop tiles to complete an image.
+Built with plain HTML, CSS, and JavaScript, it runs instantly in any browser — no installs, no wallets, and no accounts required.
 
-The idea is to keep it simple and enjoyable while showing that vApps don’t always need heavy blockchain logic.
-Sometimes, a clean design and a fun mechanic are enough to make people smile and still fit into the Soundness ecosystem.
+The goal is to highlight that vApps don’t always need complex blockchain logic. Even small, playful projects can provide value by delivering enjoyable user experiences while still fitting into the Soundness Layer vision.
 
-SL Integration
+Problem
 
-Doesn’t use complex onchain logic.
+Most Web3 projects focus heavily on technical complexity, leaving casual users behind. There is a lack of fun, instantly accessible apps that show the lighter side of decentralized ecosystems.
 
-Shows that Soundness Layer can also host lightweight, frontend-only projects.
+Solution
 
-Focus is on user experience and creativity rather than technical complexity.
+Soundness Puzzle demonstrates how simple, frontend-only games can thrive on the Soundness Layer. It emphasizes design, creativity, and instant accessibility while serving as an example of how the platform can also host lightweight, fun-first vApps.
 
-Technical
-Architecture
-
-Fully client-side, runs in the browser.
-
-Responsive layout for desktop and mobile.
-
-Stack
+Technical Architecture
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: None
+Backend: None (fully client-side)
 
-Blockchain: Not required
+Blockchain: Not required for initial version
 
 Storage: Local assets
 
+Compatibility: Responsive layout for desktop and mobile
+
 Features
 
-Drag-and-drop puzzle pieces.
+Drag-and-drop puzzle mechanics
 
-Smooth animations and simple polish.
+Smooth animations and polish
 
-Works on both desktop and mobile.
+Works seamlessly on both desktop and mobile
 
-Timeline
+Potential for expansion (themes, win screen, multiplayer, verifiable gameplay)
+
+SL Integration
+
+Highlights that Soundness Layer is versatile — not only for complex DeFi or infra tools, but also for creative, lightweight projects.
+
+Proof that frontend-first experiments can engage users and expand the community.
+
+Opens the door for later integration of multiplayer or verifiable gameplay powered by Soundness.
+
+Roadmap & Timeline
+
 PoC (2–4 weeks)
 
- Basic puzzle mechanics
+Basic puzzle mechanics
 
- Responsive layout
+Responsive layout
 
- Simple styling and animations
+Simple styling and animations
 
 MVP (4–8 weeks)
 
- Different puzzle themes
+Multiple puzzle themes
 
- Clean, production-ready version
+Polished production-ready version
 
- Small extras like win screen or level transitions
+Extras such as win screen and level transitions
+
+Future Ideas
+
+Multiplayer support
+
+Onchain verifiable gameplay
+
+User-generated puzzle packs
 
 Innovation
 
-Instant play: just open and start.
+Instant play: open and start without barriers.
 
-Lightweight but neat: built with very minimal tech.
+Lightweight but engaging: built with minimal stack, yet fun.
 
-Expands the idea of vApps beyond complex systems — fun-first projects can matter too.
-
-Anything else?
-
-This project is mainly a way for me to learn and get involved.
-I want to keep it fun and light, but I’m also excited to see how far it can go with feedback from the community.
-Later on, I’d like to try adding multiplayer or verifiable gameplay once the basics are working well.
+Expands vApp definition: showcases that fun-first projects also bring value to the Soundness ecosystem.
 
 Contact
 
 Email: airdrophoki2025@gmail.com
-
-Checklist before submitting:
-
- All fields completed
-
- GitHub username matches PR author
-
- SL integration explained
-
- Timeline is realistic
