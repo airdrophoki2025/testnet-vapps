@@ -5,7 +5,6 @@ vApp Submission: PuzzlePlay
 github_username: "airdrophoki2025"
 discord_id: "1325486316032360478"
 timestamp: "2025-09-03"
-Developer
 
 Developer
 
